@@ -7399,7 +7399,7 @@ MonoBehaviour:
   - {fileID: 114179612124652762}
   - {fileID: 114979451700922198}
   - {fileID: 114031240443073130}
-  m_UIPosition: {x: -883, y: 2296}
+  m_UIPosition: {x: -879, y: 2300}
   m_UICollapsed: 0
   m_UISuperCollapsed: 0
   m_InputSlots:
@@ -13137,9 +13137,9 @@ MonoBehaviour:
     position:
       serializedVersion: 2
       x: -1681
-      y: 2016
-      width: 1216
-      height: 1874
+      y: 2017
+      width: 1251
+      height: 1891
     contents:
     - model: {fileID: 8926484042661614595}
       id: 0
